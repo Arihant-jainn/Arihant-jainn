@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years  old UI/UX designer and a Full Stack  Enthusiast Developer  from India.
 
 <img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2820.PNG">
 
