@@ -1,7 +1,7 @@
 # Arihant Jain 👋
 
 <div align="center">
-<img hight="50" width="500" alt="GIF" align="center" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2819.PNG">
+<img hight="500" width="700" alt="GIF" align="center" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2819.PNG">
 </div>
 
 </br>
