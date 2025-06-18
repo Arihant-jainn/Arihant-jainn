@@ -16,9 +16,10 @@
 <br>
 <br>
 
-<img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2820.PNG">
+
 
 ## 🚀 Tech Stack
+<img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2820.PNG">
 
 ### 🖥️ Frontend
 - **HTML5, CSS3** – Core structure and styling of modern web apps  
