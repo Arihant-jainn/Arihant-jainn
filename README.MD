@@ -15,9 +15,30 @@
 
 <img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2820.PNG">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
+- **HTML5, CSS3** – Core structure and styling of modern web apps  
+- **JavaScript (ES6+)** – Adds interactivity and functionality  
+- **React.js** – For building scalable single-page applications  
+- **Tailwind CSS** – Utility-first CSS for fast, responsive design  
+- **TypeScript** – Strongly typed JavaScript for more robust code (optional but valuable)
+
+### 🛠 Backend
+- **Node.js** – JavaScript runtime for server-side development  
+- **Express.js** – Minimalist web framework for building APIs  
+- **MongoDB** – NoSQL database for flexible and fast storage  
+- **MySQL / PostgreSQL** – Relational databases for structured data  
+- **JWT (JSON Web Token)** – Secure authentication and session handling
+
+### ⚙️ Dev Tools & Others
+- **Git & GitHub** – Version control and project collaboration  
+- **Postman** – API testing and development  
+- **VS Code** – Preferred code editor  
+- **Vercel / Netlify** – Easy frontend deployment platforms  
+- **Render / Railway** – Free & scalable backend hosting options  
+- **Figma** – Designing intuitive UI/UX prototypes  
+
 
 ### - Hobbies : 
 - ✨ Gaming Addict
