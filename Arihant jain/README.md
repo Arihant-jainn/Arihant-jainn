@@ -78,6 +78,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
- ![Snake animation](https://github.com/Arihant-jainn/Arihant-jainn/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Arihant-jainn/Arihant-jainn/output/github-contribution-grid-snake.svg)
+
 
 *************
