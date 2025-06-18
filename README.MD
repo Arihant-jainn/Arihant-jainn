@@ -12,6 +12,9 @@
 # About ME 💬 :
 
 ### - I'm 20 years  old UI/UX designer and a Full Stack  Enthusiast Developer  from India.
+<br>
+<br>
+<br>
 
 <img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2820.PNG">
 
