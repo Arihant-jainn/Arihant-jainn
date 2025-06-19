@@ -106,3 +106,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </p>
 
 *************
+ <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,nest,vue,nuxtjs,jest,react,angular,yarn,bun,ruby,rails,redis,php,laravel,java,spring,cs,python,golang,rust,dotnet,linux,aws,azure,git,kubernetes,docker,postgres,mongodb,mysql,neovim,vscode" />
