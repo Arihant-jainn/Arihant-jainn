@@ -9,9 +9,14 @@
 </br>
 
 
-# About ME 💬 :
 
-### - I'm 20 years  old UI/UX designer and a Full Stack  Enthusiast Developer  from India.
+### - ## 👨‍💻 About Me
+
+Hi! I'm Arihant Jain, a 20-year-old Full Stack Developer and passionate UI/UX Designer.  
+I recently completed my BCA and love building modern, responsive web applications from scratch.  
+With a strong eye for design and solid coding skills, I bridge the gap between functionality and aesthetics.  
+I'm always exploring new technologies and turning ideas into user-friendly digital experiences.
+
 <br>
 <br>
 <br>
