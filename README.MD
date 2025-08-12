@@ -26,28 +26,47 @@ I'm always exploring new technologies and turning ideas into user-friendly digit
 ## 🚀 Tech Stack
 <img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2820.PNG">
 
-### 🖥️ Frontend
-- **HTML5, CSS3** – Core structure and styling of modern web apps  
-- **JavaScript (ES6+)** – Adds interactivity and functionality  
-- **React.js** – For building scalable single-page applications  
-- **Tailwind CSS** – Utility-first CSS for fast, responsive design  
-- **TypeScript** – Strongly typed JavaScript for more robust code (optional but valuable)
+💻 Languages
+Python, JavaScript, TypeScript, C++
 
-### 🛠 Backend
-- **Node.js** – JavaScript runtime for server-side development  
-- **Express.js** – Minimalist web framework for building APIs  
-- **MongoDB** – NoSQL database for flexible and fast storage  
-- **MySQL / PostgreSQL** – Relational databases for structured data  
-- **JWT (JSON Web Token)** – Secure authentication and session handling
+🖥️ Frontend
+React.js, Next.js – For building dynamic, scalable web applications
 
-### ⚙️ Dev Tools & Others
-- **Git & GitHub** – Version control and project collaboration  
-- **Postman** – API testing and development  
-- **VS Code** – Preferred code editor  
-- **Vercel / Netlify** – Easy frontend deployment platforms  
-- **Render / Railway** – Free & scalable backend hosting options  
-- **Figma** – Designing intuitive UI/UX prototypes  
+HTML5, CSS3 – Core structure and styling
 
+Tailwind CSS – Utility-first CSS framework for rapid UI development
+
+🔧 Backend
+Node.js, Express.js – Building scalable server-side applications and APIs
+
+MongoDB, PostgreSQL – NoSQL and SQL databases for flexible and relational data storage
+
+REST APIs, GraphQL – Building modern and efficient API endpoints
+
+🧠 AI & ML
+Machine Learning with scikit-learn
+
+Deep Learning with PyTorch, TensorFlow
+
+Natural Language Processing (NLP)
+
+LangChain – Framework for building LLM-powered applications
+
+⚙️ Tools & DevOps
+Git, GitHub – Version control and collaboration
+
+Docker – Containerization for consistent environments
+
+Postman – API testing and development
+
+VS Code – Code editor of choice
+
+CI/CD – Automating testing and deployment pipelines
+
+☁️ Cloud & Deployment
+AWS – Cloud computing and infrastructure
+
+Vercel – Frontend deployment and hosting platform
 
 ### - Hobbies : 
 - ✨ Gaming Addict
