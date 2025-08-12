@@ -12,10 +12,9 @@
 
 👨‍💻 About Me
 
-Hi! I'm Arihant Jain, a 20-year-old Full Stack Developer and passionate UI/UX Designer.  
-I  love building modern, responsive web applications from scratch.  
-With a strong eye for design and solid coding skills, I bridge the gap between functionality and aesthetics.  
-I'm always exploring new technologies and turning ideas into user-friendly digital experiences.
+Hi! I'm Arihant Jain, A Full Stack Developer and AI Engineer with expertise in React.js, Next.js, Node.js, and MongoDB for building
+modern web applications. Skilled in Python, OpenAI API, and n8n for developing AI-powered and automated
+solutions. Experienced in creating and deploying RESTful APIs using Docker, Render, and Vercel..
 
 <br>
 <br>
