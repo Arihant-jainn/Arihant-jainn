@@ -24,7 +24,7 @@ Hi! I'm Arihant Jain, A **Full Stack Developer** and **AI Engineer** with expert
 ## 🚀 Tech Stack
 <img hight="200" width="500" alt="GIF" align="right" src="https://github.com/Arihant-jainn/Arihant-jainn/blob/main/.github/IMG_2820.PNG">
 
-## 🚀 Skills & Technologies
+
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
