@@ -12,9 +12,8 @@
 
 👨‍💻 About Me
 
-Hi! I'm Arihant Jain, A Full Stack Developer and AI Engineer with expertise in React.js, Next.js, Node.js, and MongoDB for building
-modern web applications. Skilled in Python, OpenAI API, and n8n for developing AI-powered and automated
-solutions. Experienced in creating and deploying RESTful APIs using Docker, Render, and Vercel..
+Hi! I'm Arihant Jain, A **Full Stack Developer** and **AI Engineer** with expertise in **React.js**, **Next.js**, **Node.js**, and **MongoDB** for building modern web applications. Proficient in **Python**, **JavaScript**, and **TypeScript**, with hands-on experience using **OpenAI API**, **LangChain**, and **n8n** to develop **AI-powered** and **automated solutions**. Skilled in designing and deploying **RESTful APIs** and **GraphQL** services using **Docker**, **PostgreSQL**, **Render**, **Vercel**, and **AWS**.
+.
 
 <br>
 <br>
