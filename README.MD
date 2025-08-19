@@ -1,38 +1,61 @@
-# ⚡ HyperStack.AI — Autonomous Full Stack + AI Engineering Framework  
 
-> **Author:** Arihant Jain  
-> **Role:** Full Stack Developer | AI Agent Engineer | Ethical Hacker-in-Making  
+# 🕶️ HyperStack.AI — Hacker’s Playground for Full Stack + AI Engineering  
 
----
-
-## 🛰️ Vision  
-
-HyperStack.AI is not “just another portfolio project.”  
-It is a **fusion of Artificial Intelligence, System Design, Automation Workflows, and Hacker-Centric Engineering**.  
-Think of it as a **lab** where **full stack meets AI** under **real-world deployment constraints**.  
+💀 **Codename:** `Project BlackMirror`  
+⚡ **Type:** Autonomous Full Stack + AI Agent Framework  
+🔒 **Mode:** Ethical Hacker / Builder Lab  
 
 ---
 
-## 🔥 Core Philosophy  
+## 🧠 Core Idea  
 
-- **💻 Full Stack First** → React + Node.js + TypeScript powering scalable apps  
-- **🤖 AI Everywhere** → Agents, Automation, and ML baked into workflows  
-- **🛡 Hacker’s Mindset** → Security, resilience, and edge-case handling  
-- **⚡ Automation Native** → Webhooks, n8n pipelines, API triggers  
-- **☁️ Cloud Ready** → Dockerized, CI/CD pipelines, deployable to AWS, GCP, Vercel  
+This isn’t a “portfolio.”  
+It’s a **living cyberdeck** — where **AI agents** run experiments, **full stack apps** deploy instantly, and **hacker workflows** simulate real-world scenarios.  
+
+A place where:  
+- **Code writes code** 🤖  
+- **Agents collaborate like a digital crew** 🛰️  
+- **Every build is tested like a hacker attack** 🔓  
+- **Deployments feel like launching satellites** 🚀  
 
 ---
 
-## 🧠 Architecture Blueprint  
+## ⚔️ Feature Arsenal  
+
+- **🛡️ Security First** → JWT, OAuth2, Zero Trust, PenTest-ready  
+- **🤖 AI Agent Core** → Self-running AI tasks, research & execution  
+- **⚙️ Workflow Engine** → n8n pipelines controlling APIs, triggers, cron jobs  
+- **⚡ Hacker Dashboard** → Terminal-inspired UI with modular controls  
+- **☁️ Cloud Ops** → Dockerized, deploy-ready to AWS/GCP/Vercel  
+- **🛰️ Monitor & Defend** → Grafana dashboards, anomaly detection, logging alerts  
+
+---
+
+## 🔮 Tech Stack — Cyberpunk Edition  
+
+| Layer         | Stack |
+|---------------|-------|
+| **Frontend**  | React + Next.js + TailwindCSS (Hacker UI) |
+| **Backend**   | Node.js, FastAPI, Express |
+| **AI/ML**     | LangChain, OpenAI, TensorFlow, PyTorch |
+| **Automation**| n8n + Webhook Triggers + API Orchestrations |
+| **DB**        | MongoDB, PostgreSQL, Redis |
+| **Security**  | Zero Trust, JWT, OAuth2, bcrypt, Red vs Blue testing |
+| **DevOps**    | Docker, Kubernetes, GitHub Actions, Cloudflare Tunnels |
+| **Monitoring**| Grafana + Prometheus + Sentry |
+
+---
+
+## 🛰️ System Flow  
 
 ```mermaid
-flowchart TB
-    U[User / Client] -->|UI/UX| F[Frontend: React + Tailwind + TS]
-    F -->|REST/GraphQL| B[Backend: Node.js + Express]
-    B -->|Auth| S[Security: JWT + OAuth2 + RBAC]
-    B -->|DB Ops| D[(Database: MongoDB / PostgreSQL)]
-    B -->|ML Tasks| A[AI Layer: LangChain + OpenAI + TensorFlow]
-    A -->|Agents| N[n8n Workflow Engine]
-    N -->|APIs| X[External Integrations]
-    B -->|Monitoring| M[Logging + Grafana + Sentry]
-    M -->|Alerts| E[DevOps + CI/CD + Docker + AWS]
+flowchart TD
+    U[User] -->|Interaction| UI[CyberDeck UI: React]
+    UI -->|API Calls| B[Backend Core]
+    B -->|Tasks| AG[AI Agent Hub]
+    AG -->|Decision| WF[n8n Workflow Engine]
+    WF -->|Integrations| EXT[External APIs / Tools]
+    B -->|DB Ops| DB[(Database Cluster)]
+    B -->|Security| SEC[Auth + Monitoring + Logs]
+    SEC --> DEV[DevOps/CI/CD + Docker]
+
