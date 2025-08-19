@@ -1,61 +1,108 @@
-<!-- Header Banner -->
-<h1 align="center">✨ Arihant Jain ✨</h1>
-<h3 align="center">Software Developer | Full-Stack Engineer | AI Agent Enthusiast</h3>
+<!-- ────────────────────────────────────────────────────────────────────────────
+  Arihant Jain — Creative, Professional GitHub Profile README
+  Replace: YOUR_GITHUB_USERNAME, your-email@example.com, your links, project URLs
+──────────────────────────────────────────────────────────────────────────── -->
+
+<h1 align="center">✨ Arihant Jain</h1>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=E34F26"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Live-2ea44f?style=flat&logo=vercel"/></a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full-Stack+Engineer+%7C+AI+Agent+Builder;I+build+clean+UIs%2C+solid+APIs%2C+and+playful+AI+agents;Always+curious%2C+always+shipping"
+    alt="typing banner"
+  />
+</p>
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://your-portfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20Work-yes-34D058?style=for-the-badge">
 </p>
 
 ---
 
-## 🌟 About Me  
-
-💡 Hi, I’m **Arihant Jain**, a **fresher developer** with a vision of blending **AI + Full Stack Development** to create impactful solutions.  
-⚡ Curious by nature, I love experimenting, building, and automating things with code.  
-🎯 My focus: **Smart, scalable, and human-centered applications**.  
+### TL;DR
+> I’m a **fresher** who learns fast and ships faster—focused on **full-stack apps** and **AI-powered agents** that solve real problems.
 
 ---
 
-## 🛠️ My Tech Arsenal  
+## 🧭 About Me
+- 🔭 Building: clean **React/Next.js** frontends, **Node/Express** backends, and **AI agents** for automation.
+- 🎯 Strengths: problem-solving, rapid prototyping, readable code, and teamwork.
+- 🚀 Currently leveling up in **system design**, **Next.js 15**, and **prompt engineering for agents**.
+- 🌱 Philosophy: *Make it work → make it right → make it delightful.*
+
+---
+
+## 🧰 Tech I Use (and enjoy)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tailwind,html,css,git,linux,vite,vercel,netlify" />
+</p>
+
+**Also:** REST APIs • JWT/Auth • Webhooks • Postman • Docker (basics) • CI/CD (basics)
+
+---
+
+## 🚀 Highlight Projects
+> Real links are better than perfect projects. Ship it, then improve it.
+
+| Project | What it does | Links |
+|---|---|---|
+| 🤖 **AI Agents Lab** | 5 small AI agents (researcher, summarizer, notifier, form-filler, data-cleaner). | <a href="#">🔗 Live</a> · <a href="#">💻 Code</a> |
+| 🌐 **Portfolio v1** | Modern, responsive portfolio (React + Tailwind), smooth sections & contact form. | <a href="#">🔗 Live</a> · <a href="#">💻 Code</a> |
+| 📊 **API Dashboard** | Fetches public APIs, renders charts & tables, pagination + search. | <a href="#">🔗 Live</a> · <a href="#">💻 Code</a> |
+| 🔐 **Auth Kit** | Starter auth (JWT, roles, protected routes) for Node/Express + React. | <a href="#">🔗 Live</a> · <a href="#">💻 Code</a> |
+
+> Need ideas? Fork any of these and iterate. I love turning feedback into features.
+
+---
+
+## 🧪 What I’m Learning / Exploring
+- **Next.js App Router** patterns, server actions, caching.
+- **Agent frameworks** and tool usage (browser, filesystem, webhooks).
+- **Testing** the right way (Vitest/Jest + React Testing Library).
+
+<details>
+<summary><b>Playground & Notes</b></summary>
+
+- 📒 Snippets & gists: reusable hooks, form utils, fetch wrappers  
+- ⚙️ My “quick stack”: Vite + React + Tailwind + TanStack Query + Zod  
+- 🧱 Design system experiments with shadcn/ui  
+</details>
+
+---
+
+## 📈 Activity & Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
+
+> Replace `YOUR_GITHUB_USERNAME` to activate these cards.
+
+---
+
+## 🧩 How I Work
+- 🗺️ Break problems into tiny milestones, ship small wins daily.
+- 🧼 Code style: typed when helpful, comments where it matters, naming that tells the story.
+- 🔁 Feedback loops > assumptions. I prefer demos and iterations.
+
+---
+
+## 🤝 Let’s Collaborate
+- 🐛 Want help debugging or refactoring? Ping me.
+- 🧠 Have an idea for an AI agent or internal tool? I’ll prototype it.
+- 🧪 I’m open to good first issues and internships.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,tailwind,html,css,git,linux" />
+  <a href="mailto:your-email@example.com"><b>✉️ your-email@example.com</b></a> ·
+  <a href="https://linkedin.com/in/your-linkedin"><b>LinkedIn</b></a> ·
+  <a href="https://your-portfolio.com"><b>Portfolio</b></a>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-
-| 🔥 Project | 📖 Description | 🌍 Live / Repo |
-|------------|---------------|----------------|
-| 🤖 **AI Agents** | A collection of 5 AI-powered agents solving real-world tasks | [View Repo](#) |
-| 🌐 **Portfolio Website** | My personal portfolio built with React + Tailwind | [Live](#) |
-| 📊 **Data Dashboard** | Interactive dashboards with charts & APIs | [Repo](#) |
-| 🔐 **Auth System** | Secure login/signup with JWT + Node.js backend | [Repo](#) |
-
----
-
-## 📊 GitHub Performance  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arihant-jainn&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arihant-jainn&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🌍 Let’s Connect  
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Open-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel" /></a>
-</p>
-
----
-
-✨ *“Code is not just what I do, it’s how I think.”*  
+<p align="center"><i>“Build small. Ship often. Learn forever.”</i></p>
