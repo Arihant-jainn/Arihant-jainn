@@ -41,8 +41,8 @@
 ## 📊 GitHub Performance  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arihantjain&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arihantjain&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arihant-jainn&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arihant-jainn&theme=tokyonight" height="160"/>
 </p>
 
 ---
