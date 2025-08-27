@@ -29,7 +29,7 @@ From training **deep learning models** to deploying apps on the **cloud**, I lov
 
 ## 📊 GitHub at a Glance  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihant-jainn&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihant-ainn&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant-jainn&layout=compact&theme=tokyonight)  
 
 ---
