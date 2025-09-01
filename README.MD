@@ -74,7 +74,7 @@
 |--------|------------|-----------|
 | 🌎 **Earthquake Visualizer** | Real-time global earthquake monitoring using API integration and interactive maps. | [🔗 Live Demo](https://earthquake-visualizer-aj.vercel.app/) |
 | 📊 **Market Analyzer** | Advanced stock market analyzer powered by AI and predictive algorithms. | [🔗 Live Demo](https://market-analyzer-dashboard.vercel.app/) |
-| 🎨 **Portfolio Website** | Personal portfolio built with React + Tailwind, showcasing my work & skills. | [🔗 Live Demo](https://arihant--jain.vercel.app/) |
+| 🎨 **Portfolio Website** | Personal portfolio built with React + Tailwind, showcasing my work & skills. | [🔗 Live Demo](https://arihant-jain.vercel.app/) |
 | 🤖 **AI Chatbot** | AI-powered chatbot built using OpenAI API & LangChain for intelligent conversations. | [🔗 Live Demo](https://demo.chat-sdk.dev/) |
 | 🧠 **AI Agents** | Autonomous AI agents integrated with LangChain for task automation. | [🔗 Live Demo](https://your-live-link.com) |
 
