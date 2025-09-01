@@ -20,7 +20,7 @@
 - 🌱 Learning **Advanced Machine Learning** & **Cloud Deployments**  
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 💡 Exploring **LangChain**, **OpenAI APIs**, and **Automated AI Solutions**  
-- 📫 Reach me at **jarihant220@gmial.com**  
+- 📫 Reach me at **jarihant220@gmail.com**  
 
 ---
 
