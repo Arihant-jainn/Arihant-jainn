@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arihant-jainn/Arihant-jainn/main/08e8c749-954e-4371-9460-8beb3c177b46.png" alt="Arihant Jain Banner" width="100%" />
+  <img src="text-behind-image.png" alt="Arihant Jain Banner" width="100%" />
 </p>
 
 <!-- Name & Title -->
