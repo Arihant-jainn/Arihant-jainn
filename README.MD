@@ -1,7 +1,5 @@
 <!-- Banner Section -->
-<p align="center">
-  <img src="text-behind-image.png" alt="Arihant Jain Banner" width="100%" />
-</p>
+\
 
 <!-- Name & Title -->
 <h1 align="center">Hi 👋, I'm Arihant Jain</h1>
