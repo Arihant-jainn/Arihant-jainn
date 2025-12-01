@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-\
+
 
 <!-- Name & Title -->
 <h1 align="center">Hi 👋, I'm Arihant Jain</h1>
